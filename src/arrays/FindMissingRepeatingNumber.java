@@ -23,7 +23,7 @@ public class FindMissingRepeatingNumber {
         }
 
     public static void main(String[] args) {
-        int[] A = {0, 1, 4, 5, 1, 3};//0,1,1,3,4,5
+        int[] A = {0, 2, 4, 5, 2, 3};//0,1,1,3,4,5
         int n=A.length;
         int[] d=missingRepeatingNumber(A,n);
 
