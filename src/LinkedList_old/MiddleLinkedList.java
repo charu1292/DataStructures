@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList_old;
 
 //1.In this we take 2 pointer fast,slow,prev
 //2.then we start fast and slow from head and prev from null

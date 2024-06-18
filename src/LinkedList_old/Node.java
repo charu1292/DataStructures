@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList_old;
 
 public class Node {
         int data;

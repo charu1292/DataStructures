@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList_old;
 
 class MergePointLinkedList {
     public static Node mergePoint(Node head1, Node head2) {
